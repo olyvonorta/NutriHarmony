@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.mainDiv {
+    background-color:#98FB98 !important;
+}
+
+.text-content {
+    text-indent: 10px;
+    font-family: 'Roboto', serif;
+    text-align: center;
+}
+
+.link-aueb > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
+
+.social-media {
+    float: right;
+}
+
+.fruits_img > img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: auto;
+}
+
+.tableDiv{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headers{
+    text-align: center;
+}
+
+.olCSS{
+    text-align: center;
+}
+
+.btn_submit{    
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.link-auebinf:hover {
+    color: red;
+}
+
+.link-auebinf:active {
+    color: green;
+}
+
+.fa-facebook-square, .fa-twitter-square, .fa-instagram-square {
+    font-size: 30px;
+    color: blue;
+}
+
+table, th, td {
+    border: 1px solid black; 
+    width: 500px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    color: blue;
+}
+
+td {
+    text-align: center;
+}
+
+
+
